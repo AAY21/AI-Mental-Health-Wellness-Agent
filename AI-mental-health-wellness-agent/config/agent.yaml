@@ -1,0 +1,52 @@
+agent:
+  name: "AI Student Wellness Agent"
+  version: "1.0.0"
+  description: "Mental health & wellness support assistant for students using ADK."
+
+model:
+  provider: "openai"
+  model_name: "gpt-4o-mini"     # can be replaced with Gemini in Kaggle
+  temperature: 0.4
+  max_tokens: 500
+
+languages:
+  default: "en"
+  supported:
+    - "en"
+    - "hi"
+
+safety:
+  crisis_keywords:
+    - "suicide"
+    - "kill myself"
+    - "end my life"
+    - "can't live"
+    - "hurt myself"
+    - "I want to die"
+  crisis_response_message: |
+    It sounds like you might be going through something extremely difficult.
+    You are not alone. Please reach out to a trusted person or a helpline immediately:
+    • iCall India: +91 9152987821
+    • Aasra: +91 9820466726 (24x7)
+    • Suicide Hotline India: 9152987821
+
+mood_categories:
+  - stress
+  - anxiety
+  - depression
+  - motivation
+  - focus
+  - neutral
+
+logging:
+  enabled: true
+  emotion_log_path: "data/emotion_logs.csv"
+
+analytics:
+  trend_window_days: 7
+
+streamlit:
+  title: "AI Mental Health & Wellness Agent"
+  theme:
+    primaryColor: "#4CAF50"
+    backgroundColor

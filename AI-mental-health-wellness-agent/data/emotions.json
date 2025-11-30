@@ -1,0 +1,62 @@
+{
+    "happy": {
+        "description": "A positive emotional state of joy, satisfaction, or uplifted mood.",
+        "signals": [
+            "feeling good",
+            "motivated",
+            "content",
+            "optimistic",
+            "grateful"
+        ]
+    },
+    "sad": {
+        "description": "A low emotional state often linked with feelings of loss or disappointment.",
+        "signals": [
+            "feeling down",
+            "upset",
+            "crying",
+            "heartbroken",
+            "low energy"
+        ]
+    },
+    "stressed": {
+        "description": "Feeling pressure or overwhelm due to tasks, expectations, or deadlines.",
+        "signals": [
+            "too much work",
+            "overloaded",
+            "mental pressure",
+            "burnout",
+            "tight schedule"
+        ]
+    },
+    "anxious": {
+        "description": "A state of worry, nervousness, or fear of uncertain outcomes.",
+        "signals": [
+            "worried",
+            "overthinking",
+            "nervous",
+            "panic",
+            "unable to relax"
+        ]
+    },
+    "angry": {
+        "description": "A strong emotional response to frustration, unfairness, or violation of expectations.",
+        "signals": [
+            "irritated",
+            "frustrated",
+            "mad",
+            "annoyed",
+            "short tempered"
+        ]
+    },
+    "neutral": {
+        "description": "A balanced emotional state without strong positive or negative feelings.",
+        "signals": [
+            "okay",
+            "fine",
+            "normal",
+            "nothing special",
+            "steady"
+        ]
+    }
+}

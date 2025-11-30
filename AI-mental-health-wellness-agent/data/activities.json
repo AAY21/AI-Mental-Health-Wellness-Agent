@@ -1,0 +1,51 @@
+{
+    "sad": [
+        "Write a short gratitude note to yourself.",
+        "Listen to soft, calming instrumental music.",
+        "Take a 10-minute walk in fresh air.",
+        "Talk to a trusted friend or sibling.",
+        "Write your feelings in a journal for 5 minutes.",
+        "Drink a glass of water and take 3 deep breaths.",
+        "Watch something comforting (non-triggering)."
+    ],
+    "stressed": [
+        "Try the 4-7-8 breathing method.",
+        "Break tasks into micro-steps and complete one small thing.",
+        "Stretch your neck and shoulders for 2 minutes.",
+        "Do 5 slow belly-breaths with eyes closed.",
+        "Organize your workspace for 3 minutes.",
+        "Take a 5-minute nature break (look outside or walk slowly)."
+    ],
+    "anxious": [
+        "Do the 5-4-3-2-1 grounding exercise.",
+        "Practice box breathing: 4-in, 4-hold, 4-out, 4-hold.",
+        "Slowly sip warm water or tea.",
+        "Write down your top 3 worries and label them 'Not urgent'.",
+        "Relax your shoulders consciously and lift your chin slightly.",
+        "Repeat: 'I am safe. I am in control. This will pass.'"
+    ],
+    "angry": [
+        "Pause and breathe: inhale 6 seconds, exhale 6 seconds.",
+        "Splash cool water on your face.",
+        "Leave the room for 2 minutes to reset.",
+        "Write what made you angry, then tear the paper.",
+        "Squeeze a stress ball or pillow firmly for 10 seconds.",
+        "Listen to calming rain or nature sounds."
+    ],
+    "happy": [
+        "Write a quick gratitude list of 3 good things.",
+        "Text a friend something positive.",
+        "Take 2 minutes to breathe deeply and enjoy the moment.",
+        "Capture the moment in a journal or note.",
+        "Do one small act of kindness today.",
+        "Listen to your favorite music."
+    ],
+    "neutral": [
+        "Do a 30-second mindful breathing reset.",
+        "Stretch your arms and back slowly.",
+        "Drink water and rest your eyes for 20 seconds.",
+        "Check in with your body posture.",
+        "Take a short walk or move around.",
+        "Try noticing 3 things around you without judging them."
+    ]
+}
